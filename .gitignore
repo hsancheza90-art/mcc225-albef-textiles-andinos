@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.jupyter/
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Modelos pesados
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Datos grandes o temporales
+data/raw/
+data/tmp/
+
+# Resultados temporales
+results/tmp/
