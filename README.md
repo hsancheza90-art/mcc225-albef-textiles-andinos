@@ -92,10 +92,7 @@ mcc225-albef-textiles-andinos/
 │   └── experiment_summary.csv
 │
 ├── docs/
-│
-├── evaluacion/
 │   ├── trazabilidad.md
-│   ├── defensa_tecnica.md
 │   └── analisis_critico.md
 │
 ├── src/
