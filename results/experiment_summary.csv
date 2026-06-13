@@ -7,7 +7,7 @@ Textos correctos,10
 Textos distractores,5
 Dimensión de embeddings,512
 Métrica principal,"Recall@1, Recall@3, Recall@5"
-Resultado imagen → texto,"R@1=0.20, R@3=0.50, R@5=0.70"
+Resultado imagen → texto,"R@1=0.20, R@3=0.60, R@5=0.70"
 Resultado texto → imagen,"R@1=0.30, R@3=0.80, R@5=0.80"
 Limitación principal,No se implementa ALBEF completo; se evalúa una línea base contrastiva con OpenCLIP.
 Mejora propuesta,Agregar re-ranking con fusión crossmodal inspirado en ITM/ALBEF.

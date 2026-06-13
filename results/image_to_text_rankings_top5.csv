@@ -39,11 +39,11 @@ T08,2,TXT_07,Textil andino sintético con bloques cuadrados alternados en compos
 T08,3,TXT_08,Textil andino sintético con composición bilateral y equilibrio visual entre ambos lados.,correcto,0.21895740926265717,TXT_08,True
 T08,4,TXT_06,Textil andino sintético con bandas decorativas y pequeños motivos geométricos repetidos.,correcto,0.2081659883260727,TXT_08,False
 T08,5,TXT_11,Textil sintético con composición radial y círculos concéntricos.,distractor,0.20739750564098358,TXT_08,False
-T09,1,TXT_03,Textil andino sintético con motivo geométrico escalonado repetido en composición regular.,correcto,0.25153136253356934,TXT_09,False
-T09,2,TXT_07,Textil andino sintético con bloques cuadrados alternados en composición regular tipo tablero.,correcto,0.23715119063854218,TXT_09,False
-T09,3,TXT_10,Textil andino sintético con motivo geométrico central enmarcado por bandas decorativas.,correcto,0.23701708018779755,TXT_09,False
-T09,4,TXT_09,Textil andino sintético de alta densidad geométrica con repetición de figuras pequeñas.,correcto,0.2320571094751358,TXT_09,True
-T09,5,TXT_06,Textil andino sintético con bandas decorativas y pequeños motivos geométricos repetidos.,correcto,0.22763557732105255,TXT_09,False
+T09,1,TXT_03,Textil andino sintético con motivo geométrico escalonado repetido en composición regular.,correcto,0.24249714612960815,TXT_09,False
+T09,2,TXT_07,Textil andino sintético con bloques cuadrados alternados en composición regular tipo tablero.,correcto,0.2356812208890915,TXT_09,False
+T09,3,TXT_09,Textil andino sintético de alta densidad geométrica con repetición de figuras pequeñas.,correcto,0.2309708297252655,TXT_09,True
+T09,4,TXT_10,Textil andino sintético con motivo geométrico central enmarcado por bandas decorativas.,correcto,0.22634008526802063,TXT_09,False
+T09,5,TXT_13,Patrón textil con diagonales cruzadas y fuerte contraste cromático.,distractor,0.2230558693408966,TXT_09,False
 T10,1,TXT_13,Patrón textil con diagonales cruzadas y fuerte contraste cromático.,distractor,0.22642801702022552,TXT_10,False
 T10,2,TXT_03,Textil andino sintético con motivo geométrico escalonado repetido en composición regular.,correcto,0.2205645889043808,TXT_10,False
 T10,3,TXT_10,Textil andino sintético con motivo geométrico central enmarcado por bandas decorativas.,correcto,0.21306705474853516,TXT_10,True

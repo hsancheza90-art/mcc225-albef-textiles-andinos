@@ -19,8 +19,7 @@ T07,1,TXT_03,Textil andino sintético con motivo geométrico escalonado repetido
 T07,3,TXT_13,Patrón textil con diagonales cruzadas y fuerte contraste cromático.,distractor,0.2369368076324463,TXT_07,False
 T08,1,TXT_13,Patrón textil con diagonales cruzadas y fuerte contraste cromático.,distractor,0.24979592859745026,TXT_08,False
 T08,2,TXT_07,Textil andino sintético con bloques cuadrados alternados en composición regular tipo tablero.,correcto,0.22381961345672607,TXT_08,False
-T09,1,TXT_03,Textil andino sintético con motivo geométrico escalonado repetido en composición regular.,correcto,0.25153136253356934,TXT_09,False
-T09,2,TXT_07,Textil andino sintético con bloques cuadrados alternados en composición regular tipo tablero.,correcto,0.23715119063854218,TXT_09,False
-T09,3,TXT_10,Textil andino sintético con motivo geométrico central enmarcado por bandas decorativas.,correcto,0.23701708018779755,TXT_09,False
+T09,1,TXT_03,Textil andino sintético con motivo geométrico escalonado repetido en composición regular.,correcto,0.24249714612960815,TXT_09,False
+T09,2,TXT_07,Textil andino sintético con bloques cuadrados alternados en composición regular tipo tablero.,correcto,0.2356812208890915,TXT_09,False
 T10,1,TXT_13,Patrón textil con diagonales cruzadas y fuerte contraste cromático.,distractor,0.22642801702022552,TXT_10,False
 T10,2,TXT_03,Textil andino sintético con motivo geométrico escalonado repetido en composición regular.,correcto,0.2205645889043808,TXT_10,False

@@ -1,7 +1,7 @@
 direccion,k,recall
 imagen_a_texto,1,0.2
 texto_a_imagen,1,0.3
-imagen_a_texto,3,0.5
+imagen_a_texto,3,0.6
 texto_a_imagen,3,0.8
 imagen_a_texto,5,0.7
 texto_a_imagen,5,0.8
