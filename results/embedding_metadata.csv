@@ -1,0 +1,3 @@
+objeto,cantidad,dimension_embedding,modelo,checkpoint
+imagenes,10,512,ViT-B-32,laion2b_s34b_b79k
+textos,15,512,ViT-B-32,laion2b_s34b_b79k

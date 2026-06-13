@@ -1,0 +1,3 @@
+etapa,pregunta_que_responde,mecanismo,relacion_con_albef,estado_en_el_notebook
+Alineamiento contrastivo,¿Qué textos o imágenes son globalmente parecidos?,Embeddings separados + similitud coseno.,Corresponde al objetivo ITC.,Implementado con OpenCLIP.
+Fusión profunda,¿La imagen y el texto realmente corresponden en detalles finos?,Atención crossmodal entre tokens visuales y textuales.,Corresponde principalmente a ITM y al encoder multimodal.,No implementado; propuesto como mejora futura.

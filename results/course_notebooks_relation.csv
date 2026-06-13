@@ -1,0 +1,4 @@
+cuaderno,foco_tecnico,relacion_con_este_notebook,evidencia_en_el_notebook
+C5,Deep fusion multimodal con transformers y atención crossmodal.,Se usa para explicar la mejora futura hacia fusión profunda y re-ranking.,Tabla align vs fuse y discusión de fusión crossmodal.
+C6,"Aprendizaje contrastivo, embeddings compartidos, hard negatives y retrieval.","Es la base conceptual del experimento: embeddings, similitud, ranking y hard negatives.","Matriz de similitud, rankings, Recall@K y análisis de hard negatives."
+C10,"OpenCLIP, zero-shot, prompts, image-to-text y text-to-image retrieval.",Es la base práctica: uso de OpenCLIP como línea base reproducible.,"Carga de OpenCLIP, embeddings, retrieval imagen-texto y texto-imagen."

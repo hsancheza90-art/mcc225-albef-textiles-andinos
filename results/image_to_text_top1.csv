@@ -1,0 +1,11 @@
+imagen_id,rank,texto_id,texto,tipo_texto,score,texto_correcto,es_correcto
+T01,1,TXT_01,Textil andino sintético con franjas horizontales repetidas y organización simétrica del color.,correcto,0.24360311031341553,TXT_01,True
+T02,1,TXT_03,Textil andino sintético con motivo geométrico escalonado repetido en composición regular.,correcto,0.2293964922428131,TXT_02,False
+T03,1,TXT_13,Patrón textil con diagonales cruzadas y fuerte contraste cromático.,distractor,0.24929550290107727,TXT_03,False
+T04,1,TXT_13,Patrón textil con diagonales cruzadas y fuerte contraste cromático.,distractor,0.2533554136753082,TXT_04,False
+T05,1,TXT_03,Textil andino sintético con motivo geométrico escalonado repetido en composición regular.,correcto,0.27362120151519775,TXT_05,False
+T06,1,TXT_06,Textil andino sintético con bandas decorativas y pequeños motivos geométricos repetidos.,correcto,0.27196091413497925,TXT_06,True
+T07,1,TXT_03,Textil andino sintético con motivo geométrico escalonado repetido en composición regular.,correcto,0.2530820965766907,TXT_07,False
+T08,1,TXT_13,Patrón textil con diagonales cruzadas y fuerte contraste cromático.,distractor,0.24979592859745026,TXT_08,False
+T09,1,TXT_03,Textil andino sintético con motivo geométrico escalonado repetido en composición regular.,correcto,0.25153136253356934,TXT_09,False
+T10,1,TXT_13,Patrón textil con diagonales cruzadas y fuerte contraste cromático.,distractor,0.22642801702022552,TXT_10,False

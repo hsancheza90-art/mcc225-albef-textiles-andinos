@@ -1,0 +1,10 @@
+pregunta_de_trazabilidad,respuesta
+¿Qué paper/modelo se trabaja?,ALBEF: Align Before Fuse.
+¿Qué cuadernos se relacionan?,"C5, C6 y C10."
+¿Qué notebook se ejecuta?,notebooks/01_albef_openclip_textiles_retrieval.ipynb
+¿Qué celda o bloque produce el resultado principal?,"Extracción de embeddings, matriz de similitud, rankings y Recall@K."
+¿Qué resultado se obtuvo?,Retrieval imagen-texto y texto-imagen sobre imágenes de prueba inspiradas en textiles andinos.
+¿Qué métrica se usó?,"Recall@1, Recall@3 y Recall@5."
+¿Qué cambio se hizo respecto a los cuadernos base?,Adaptación del pipeline OpenCLIP/retrieval a un conjunto de prueba de textiles andinos sintéticos.
+¿Qué limitación se encontró?,No se implementa ALBEF completo; no hay fusión profunda ni MLM/ITM entrenado.
+¿Qué mejora se propone?,Agregar re-ranking con fusión crossmodal y comparar contra la línea base OpenCLIP.

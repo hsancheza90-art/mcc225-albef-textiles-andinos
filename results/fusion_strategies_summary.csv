@@ -1,0 +1,5 @@
+estrategia,descripcion,relacion_con_el_notebook,limitacion
+Text-only,Usa solo información textual.,No implementado como experimento separado; se usa texto como modalidad candidata.,No observa la imagen.
+Image-only,Usa solo información visual.,No implementado como tarea independiente; se usan imágenes para embeddings visuales.,No produce recuperación textual por sí solo.
+Late fusion,Combina representaciones o scores ya calculados por separado.,Podría agregarse combinando scores de distintas fuentes.,No modela relaciones finas entre imagen y texto.
+Deep fusion,Permite interacción profunda entre tokens visuales y textuales.,No implementado; corresponde a la mejora tipo ALBEF.,Mayor costo computacional y requiere encoder multimodal.

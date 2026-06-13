@@ -1,0 +1,6 @@
+hallazgo,interpretacion
+Recall@5 mejora respecto a Recall@1,"El modelo encuentra señal semántica útil, pero no siempre ordena bien el primer resultado."
+Aparecen distractores dentro del Top-5,La similitud global por embeddings puede confundir descripciones cercanas.
+Algunos textos incorrectos se repiten como candidatos fuertes,Estos casos pueden interpretarse como hard negatives.
+Hay confusión entre patrones geométricos similares,"OpenCLIP captura estética general, pero no siempre detalles finos."
+El experimento no implementa fusión profunda,La mejora natural es agregar re-ranking o fusión crossmodal inspirada en ALBEF.

@@ -1,14 +1,14 @@
 id,texto,tipo,imagen_correcta
-TXT_01,"Textil andino sintético con franjas horizontales repetidas y organización simétrica del color.",correcto,IMG_01
-TXT_02,"Textil andino sintético con franjas verticales alternadas y estructura visual ordenada.",correcto,IMG_02
-TXT_03,"Textil andino sintético con motivo geométrico escalonado repetido en composición regular.",correcto,IMG_03
-TXT_04,"Textil andino sintético con rombos centrales repetidos y simetría axial.",correcto,IMG_04
-TXT_05,"Textil andino sintético con composición modular en cuadrícula, inspirada en patrones tipo tocapu.",correcto,IMG_05
-TXT_06,"Textil andino sintético con bandas decorativas y pequeños motivos geométricos repetidos.",correcto,IMG_06
-TXT_07,"Textil andino sintético con bloques cuadrados alternados en composición regular tipo tablero.",correcto,IMG_07
-TXT_08,"Textil andino sintético con composición bilateral y equilibrio visual entre ambos lados.",correcto,IMG_08
-TXT_09,"Textil andino sintético de alta densidad geométrica con repetición de figuras pequeñas.",correcto,IMG_09
-TXT_10,"Textil andino sintético con motivo geométrico central enmarcado por bandas decorativas.",correcto,IMG_10
+TXT_01,"Textil andino sintético con franjas horizontales repetidas y organización simétrica del color.",correcto,T01
+TXT_02,"Textil andino sintético con franjas verticales alternadas y estructura visual ordenada.",correcto,T02
+TXT_03,"Textil andino sintético con motivo geométrico escalonado repetido en composición regular.",correcto,T03
+TXT_04,"Textil andino sintético con rombos centrales repetidos y simetría axial.",correcto,T04
+TXT_05,"Textil andino sintético con composición modular en cuadrícula, inspirada en patrones tipo tocapu.",correcto,T05
+TXT_06,"Textil andino sintético con bandas decorativas y pequeños motivos geométricos repetidos.",correcto,T06
+TXT_07,"Textil andino sintético con bloques cuadrados alternados en composición regular tipo tablero.",correcto,T07
+TXT_08,"Textil andino sintético con composición bilateral y equilibrio visual entre ambos lados.",correcto,T08
+TXT_09,"Textil andino sintético de alta densidad geométrica con repetición de figuras pequeñas.",correcto,T09
+TXT_10,"Textil andino sintético con motivo geométrico central enmarcado por bandas decorativas.",correcto,T10
 TXT_11,"Textil sintético con composición radial y círculos concéntricos.",distractor,
 TXT_12,"Diseño visual con figuras animales estilizadas y distribución dispersa.",distractor,
 TXT_13,"Patrón textil con diagonales cruzadas y fuerte contraste cromático.",distractor,

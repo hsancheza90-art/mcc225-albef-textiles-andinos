@@ -1,0 +1,8 @@
+componente_albef,funcion_en_albef,estado_en_este_notebook
+Encoder visual,Codifica la imagen en representaciones visuales.,Implementado mediante OpenCLIP ViT-B/32.
+Encoder textual,Codifica el texto en representaciones lingüísticas.,Implementado mediante el encoder textual de OpenCLIP.
+ITC - Image-Text Contrastive Learning,Alinea imagen y texto en un espacio compartido.,Implementado de forma aproximada mediante embeddings y similitud coseno.
+MLM - Masked Language Modeling,Predice palabras ocultas usando contexto textual y visual.,No implementado; se explica como componente del paper.
+ITM - Image-Text Matching,Decide si una imagen y un texto realmente corresponden.,No implementado completo; se plantea como mejora futura.
+Fusión crossmodal,Permite interacción profunda entre tokens visuales y textuales.,No implementado; corresponde a una etapa posterior tipo ALBEF.
+Re-ranking,Reordena candidatos recuperados usando fusión multimodal.,Propuesto como mejora para corregir errores de ranking.
